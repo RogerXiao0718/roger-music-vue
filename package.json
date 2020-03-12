@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.3.2",
-    "vue": "^2.6.10"
+    "hh-mm-ss": "^1.2.0",
+    "iso8601-duration": "^1.2.0",
+    "vue": "^2.6.10",
+    "vue-youtube": "^1.4.0",
+    "vue2-touch-events": "^2.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
